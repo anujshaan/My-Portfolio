@@ -1,0 +1,19 @@
+#design h4 , #development h4, #mobile h4
+{
+	font-weight: 400;
+	color: orange;
+	margin-top: 100px;
+}
+#design img , #development img, #mobile img
+{
+	margin-top:-20px;
+}
+#design p , #development p, #mobile p
+{
+	font-size: 18px;
+	color: #909090;
+}
+#design strong , #development strong, #mobile strong
+{
+	color: orange;
+}

@@ -1,0 +1,20 @@
+#augustus-design h4 , #augustus-development h4
+{
+	font-weight: 400;
+	margin-top: 100px;
+}
+
+#augustus-design p , #augustus-development p , #video p
+{
+	font-size: 18px;
+	color: #909090;
+}
+
+#video p
+{
+	margin-top: -100px;
+}
+#augustus-design strong , #augustus-development strong , #video strong
+{
+	color: black;
+}
